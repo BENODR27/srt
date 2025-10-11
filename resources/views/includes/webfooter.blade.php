@@ -188,6 +188,11 @@
       © 2025 Copyright:
       <a class="text-reset fw-bold" href="/">srtemplejewellery</a>
     </div>
+ <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05); font-size: 0.9rem;">
+  Crafted with ❤️ by 
+  <a class="text-reset fw-bold" href="/">360withben</a>
+</div>
+
     <!-- Copyright -->
   </footer>
   <script>
