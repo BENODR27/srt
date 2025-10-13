@@ -5,7 +5,73 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SR</title>
+<!-- Basic SEO Meta Tags -->
+<title>SR Temple Jewellery | Handcrafted Temple Jewellery by Artisans</title>
+<meta name="description" content="We are the leading Temple jewellery in Nagarcoil, an essential part of the adornment of the Tamil bride. We make various products for more details contact,Handcrafted temple jewellery, custom-made with love by expert artisans. Visit our collection today.">
+<meta name="keywords" content="Temple Jewellery, Handmade Jewellery, Custom Jewellery, Gold Jewellery, South Indian Jewellery, Bridal Jewellery">
+<meta name="author" content="SR Temple Jewellery">
+
+<!-- Open Graph (for Facebook, WhatsApp, etc.) -->
+<meta property="og:title" content="SR Temple Jewellery">
+<meta property="og:description" content="We are the leading Temple jewellery in Nagarcoil , Kaniyakumari ,TamilNadu ,India, an essential part of the adornment of the Tamil bride. We make various products for more details contact,Handcrafted temple jewellery, custom-made with love by expert artisans. Visit our collection today.">
+<meta property="og:image" content="https://srtgallery.s3.amazonaws.com/slide/images/6774f618154c6.jpeg">
+<meta property="og:url" content="https://www.srtemplejewellery.com">
+<meta property="og:type" content="website">
+
+
+
+<!-- Structured Data (JSON-LD Schema) -->
+{{-- <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JewelryStore",
+  "name": "SR Temple Jewellery",
+  "image": [
+    "https://www.srtemplejewellery.com/images/storefront.jpg",
+    "https://www.srtemplejewellery.com/images/product1.jpg",
+    "https://www.srtemplejewellery.com/images/product2.jpg"
+  ],
+  "@id": "https://www.srtemplejewellery.com",
+  "url": "https://www.srtemplejewellery.com",
+  "telephone": "+91-9876543210",
+  "email": "info@srtemplejewellery.com",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "123 MG Road, Mylapore",
+    "addressLocality": "Chennai",
+    "addressRegion": "Tamil Nadu",
+    "postalCode": "600004",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 13.0340,
+    "longitude": 80.2674
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "opens": "9:00",
+      "closes": "21:00"
+    }
+  ],
+  "priceRange": "₹₹₹",
+  "description": "SR Temple Jewellery specializes in handcrafted temple jewellery made by skilled artisans in Chennai, Tamil Nadu. Custom designs available for bridal and festive occasions.",
+  "sameAs": [
+    "https://www.facebook.com/srtemplejewellery",
+    "https://www.instagram.com/srtemplejewellery",
+    "https://www.youtube.com/@srtemplejewellery"
+  ]
+}
+</script> --}}
 
     <!--Essential css files-->
     <link rel="stylesheet" href="assets/css/all.css">
