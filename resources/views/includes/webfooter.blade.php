@@ -190,7 +190,7 @@
     </div>
  <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05); font-size: 0.9rem;">
   Crafted with ❤️ by 
-  <a class="text-reset fw-bold" href="https://youtube.com/@360withben?si=RbCtlendAozh2eWH">360withben</a>
+  <a class="text-reset fw-bold" href="https://thamizhtech.com">ThamizhTech</a>
 </div>
 
     <!-- Copyright -->
